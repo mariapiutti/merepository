@@ -1,0 +1,109 @@
+
+/*Eliminar formatações padões*/ 
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    background: wheat;
+    width: 100vw;
+}
+#principal {
+    background: rgb(238, 187, 92);
+    width: 100vw; 
+    height: 25vh; 
+    
+}
+.menu {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /*padding: 80px;*/
+    position: relative;
+    left: 50vh;
+    
+}
+a {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 1px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+ .color-l {
+     color: rgb(245, 200, 55);
+     margin-bottom: 20px;
+     text-decoration:underline ;
+
+ }
+ .conteudolado {
+     background: rgb(163, 162, 162);
+     color: rgb(58, 54, 54);
+     width: 250px;
+     height: 250px;
+     position: relative;
+     left: 950px;
+     top: 30px;
+ }
+ img {
+     position: relative;
+     left: 30px;
+ }
+ .tras {
+     background: white;
+     width: 700px;
+     height: 1255px;
+     position: relative;
+     left: 200px;
+     margin-top: 150px;
+
+}
+ 
+#tec{
+    color: gray;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 400px;
+    display: inline;
+}
+#blog {
+    color: rgb(184, 102, 8);
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline;
+    padding: 0px;
+    
+    
+}
+ h2 {
+     color: rgb(216, 157, 48);
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline;
+    
+    
+ }
+ p {
+     width: 700px;
+     padding-left:  10px;
+     padding-right: 10px;
+     padding-top: 2px;
+     padding-bottom: 2px;
+    }
+.postagem {
+    position: relative;
+    bottom: 25px;
+    padding-left: 20px;
+}
+footer {
+    background: rgb(182, 177, 177);
+    color: black;
+    width: 680px;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: 1050px;
+    left: 200px;
+    padding: 10px;
+
+}
